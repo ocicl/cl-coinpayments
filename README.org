@@ -1,0 +1,10 @@
+* cl-coinpayments
+
+Helpers for Coinpayments.net
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/K1D77A/cl-coinpayments.git   |
+| commit  | {"messa  |
+| systems | cl-coinpayments |
+|---------+-------------------------------------------|
+
